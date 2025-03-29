@@ -34,7 +34,6 @@ npm install
 
 ### 3️⃣ Get your API key from OpenWeatherMap
 - Sign up at [OpenWeather](https://openweathermap.org/api) and generate an API key.
-  ```
 
 ### 4️⃣ Run the application
 ```bash
